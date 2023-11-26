@@ -30,5 +30,4 @@
   - Cars
 
   🌐 **Connect With Me:**
-  - GitHub: [goncalves745]
   - LinkedIn: [Goncalves](www.linkedin.com/in/diogo-goncalves-448814248)
