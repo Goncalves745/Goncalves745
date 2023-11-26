@@ -1,8 +1,4 @@
-👨‍💻 **[Diogo]**
-
-  🍏 Apple Certified Technician | 🚀 Student Developer
-
-  Hello! 👋 I'm [Diogo], an Apple Certified Technician and a student developer deeply passionate about crafting innovative solutions. My journey spans a diverse skill set, ranging from the core web technologies like HTML and CSS to the robust realms of Java, C++, C#, and Python. I'm equally at home navigating the landscapes of Linux, Windows, and Mac environments.
+👨‍💻 **Diogo**
 
   🖥️ **Technologies:**
   - HTML | CSS | JavaScript
