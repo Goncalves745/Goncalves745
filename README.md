@@ -17,10 +17,10 @@
   - Apple Certified Technician: Troubleshooting,diagnostics and repairs.
 
   🎓 **Academic Pursuits:**
-  - Currently pursuing [Computer Science] at [Universidade da Maia]
+  - Currently pursuing [Computer Science](https://www.umaia.pt/pt/ensino/oferta-formativa/licenciaturas/informatica) at [Universidade da Maia](https://www.umaia.pt/pt)
 
   🚀 **Projects:**
-  - [Project 1]: Developed with collegues the game Mario Bros Arcade [IN DEVELOPMENT]
+  - [Mario Bros](https://github.com/Otavio-A/TAG01): Developed with collegues the game Mario Bros Arcade [IN DEVELOPMENT]
 
   💡 **Passionate About:**
   - Exploring new technologies and programming languages
@@ -32,4 +32,3 @@
   🌐 **Connect With Me:**
   - GitHub: [goncalves745]
   - LinkedIn: [Goncalves](www.linkedin.com/in/diogo-goncalves-448814248)
-  - Twitter: [YourTwitterHandle]
