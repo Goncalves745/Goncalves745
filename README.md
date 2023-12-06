@@ -16,8 +16,9 @@
   - Currently pursuing [Computer Science](https://www.umaia.pt/pt/ensino/oferta-formativa/licenciaturas/informatica) at [Universidade da Maia](https://www.umaia.pt/pt)
 
   🚀 **Projects:**
-  - [Mario Bros](https://github.com/Otavio-A/TAG01): Developed with collegues the game Mario Bros Arcade [IN DEVELOPMENT]
-
+  <!-- This is commented out. 
+  / [Mario Bros](https://github.com/Otavio-A/TAG01): Developed with collegues the game Mario Bros Arcade [IN DEVELOPMENT]
+-->
   💡 **Passionate About:**
   - Exploring new technologies and programming languages
   - Crafting intuitive and visually appealing user interfaces
