@@ -1,4 +1,5 @@
 # Helo there, I'm Diogo Gonçalves! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+[![MasterHead](your image link)](your GitHub link)
 
 <!-- Brief Description -->
 - :computer: I'm currently studying [@ISMAI](https://www.umaia.pt/pt) (year 2) <br>
@@ -17,3 +18,6 @@
 <!--- Github Stats --->
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalves745&show_icons=true&theme=dark)
 [![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves745&theme=dark)](https://github.com/goncalves745/github-readme-stats)
+
+<!--- Spotify --->
+![Diogo´s Spotify recent](https://spotify-recently-played-readme.vercel.app/api?user=31h5t7tvostdag53cxmqeaneuwdq)
