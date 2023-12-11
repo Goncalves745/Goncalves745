@@ -16,4 +16,4 @@
 
 <!--- Github Stats --->
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=goncalves745&show_icons=true&theme=dark)
-[![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves745)](https://github.com/goncalves745/github-readme-stats)
+[![Diogo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves745&theme=dark)](https://github.com/goncalves745/github-readme-stats)
