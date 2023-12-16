@@ -1,5 +1,4 @@
 # Hello there, I'm Diogo Gonçalves! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-[![MasterHead](your image link)](your GitHub link)
 
 <!-- Brief Description -->
 - :computer: I'm currently studying [@ISMAI](https://www.umaia.pt/pt) (year 2) <br>
