@@ -1,8 +1,7 @@
 # Hello there, I'm Diogo Gonçalves! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 <!-- Brief Description -->
-- :computer: I'm currently studying [@ISMAI](https://www.umaia.pt/pt) (year 2) <br>
-- :seedling: I’m currently pursuing Computer Science <br>
+- :computer: I'm currently studying Computer Science in [@ISMAI](https://www.umaia.pt/pt) (year 2) <br>
 - :sparkles: I also like gym and to modify cars in my free time <br>
 <br>
 
